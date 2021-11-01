@@ -1,0 +1,60 @@
+I used the input file argument <input/names1*>
+
+
+
+1 requester thread and 1 resolver thread
+Thread 8038 serviced 6 files.
+Run time: 18.120156 seconds
+
+1 requester thread and 3 resolver threads
+Thread 8187 serviced 3 files.
+Thread 8189 serviced 3 files.
+Thread 8191 serviced 2 files.
+Run time: 5.201112 seconds
+
+
+3 requester threads and 1 resolver thread
+Thread 8099 serviced 2 files.
+Thread 8097 serviced 4 files.
+Thread 8098 serviced 2 files.
+Run time: 15.178049 seconds
+
+3 requester threads and 3 resolver threads
+Thread 8146 serviced 1 files.
+Thread 8145 serviced 1 files.
+Thread 8141 serviced 1 files.
+Thread 8140 serviced 1 files.
+Thread 8138 serviced 2 files.
+Thread 8142 serviced 2 files.
+Thread 8137 serviced 4 files.
+Thread 8136 serviced 1 files.
+Thread 8144 serviced 1 files.
+Run time: 4.777101 seconds
+
+5 requester threads and 5 resolver threads
+Thread 8226 serviced 1 files.
+Thread 8228 serviced 1 files.
+Thread 8217 serviced 1 files.
+Thread 8220 serviced 1 files.
+Thread 8223 serviced 1 files.
+Thread 8239 serviced 1 files.
+Thread 8234 serviced 1 files.
+Thread 8213 serviced 2 files.
+Thread 8231 serviced 1 files.
+Thread 8238 serviced 2 files.
+Thread 8240 serviced 2 files.
+Thread 8229 serviced 1 files.
+Thread 8222 serviced 1 files.
+Thread 8221 serviced 1 files.
+Thread 8232 serviced 1 files.
+Thread 8214 serviced 2 files.
+Thread 8215 serviced 1 files.
+Thread 8237 serviced 1 files.
+Thread 8216 serviced 1 files.
+Thread 8235 serviced 2 files.
+Thread 8241 serviced 1 files.
+Thread 8233 serviced 1 files.
+Thread 8219 serviced 1 files.
+Thread 8225 serviced 1 files.
+Run time: 2.459178 seconds
+
