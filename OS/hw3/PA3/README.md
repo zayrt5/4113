@@ -1,4 +1,5 @@
-PA3 Host name to IP resolver
+PA3 Multithreaded / Threadsafe Host name to IP resolver
+
 Isaiah Thomas
 
 make should work on all machines.
